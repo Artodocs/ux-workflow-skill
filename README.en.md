@@ -115,6 +115,10 @@ skills/ux-workflow/
     project-state-template.md       ← template of the state file
 ```
 
+## Author
+
+Anton Shappo, UX designer. I write about UX and working with AI in my Telegram channel [UX фактор](https://t.me/uxfaktor) (in Russian). Updates about the skill are posted there too.
+
 ## License
 
 MIT
