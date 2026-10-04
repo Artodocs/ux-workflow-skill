@@ -22,6 +22,8 @@
 
 ## Установка
 
+Выполните в терминале (нужен Node.js):
+
 ```bash
 npx skills add antonshappo/ux-workflow-skill
 ```
