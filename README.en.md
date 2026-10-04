@@ -4,6 +4,10 @@ A skill for Claude Code and Cursor that walks a UX designer through a task step 
 
 [Русская версия](README.md)
 
+![The skill has created the project structure and asks the first questions of stage 01](docs/screenshot.png)
+
+*The skill at work in Cursor: project folders on the left, the first block of questions on the right. The interface language is Russian.*
+
 > **Language note.** The skill is written in Russian: it talks to you in Russian and keeps all project files in Russian. To use it in another language, translate `SKILL.md` and the files in `references/`.
 
 ## Why
