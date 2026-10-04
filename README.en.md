@@ -27,13 +27,13 @@ The skill keeps everything in the project folder. At the start of each session i
 Run this in a terminal (requires Node.js):
 
 ```bash
-npx skills add Artodocs/ux-workflow-skill
+npx skills add antonshappo/ux-workflow-skill
 ```
 
 Or manually:
 
 ```bash
-git clone https://github.com/Artodocs/ux-workflow-skill.git
+git clone https://github.com/antonshappo/ux-workflow-skill.git
 cp -R ux-workflow-skill/skills/ux-workflow ~/.claude/skills/
 ```
 
